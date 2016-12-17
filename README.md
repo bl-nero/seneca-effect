@@ -5,4 +5,4 @@ A Jupyter notebook that illustrates the Seneca cliff effect as described by Ugo 
 Use Python 3.5. Run `pip install -r requirements` and you should be all set up.
 
 # Running
-Start the Jupyter server by running `jupyter notebook`. The Jupyter page should open automatically in your Web browser as http://localhost:8888/tree.
+Start the Jupyter server by running `jupyter notebook`. The Jupyter page should open automatically in your Web browser as [http://localhost:8888/tree](http://localhost:8888/tree).
